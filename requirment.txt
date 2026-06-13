@@ -1,0 +1,26 @@
+# Deep Learning
+torch>=2.0
+torchvision>=0.15
+torchaudio>=2.0
+
+# Scientific computing
+numpy>=1.23
+scipy>=1.9
+scikit-learn>=1.2
+
+# Computer vision
+opencv-python>=4.7
+pillow>=9.4
+
+# Utilities
+tqdm>=4.65
+matplotlib>=3.7
+
+# Face detection (for preprocessing)
+facenet-pytorch>=2.5
+
+# Logging (optional but recommended)
+tensorboard>=2.12
+
+#OC-SCMNet
+einops>=0.6
