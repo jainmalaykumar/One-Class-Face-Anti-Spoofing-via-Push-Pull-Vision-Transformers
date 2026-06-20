@@ -9,3 +9,5 @@ figures
 datasets
 .vscode
 __pycache__
+roc_curve_paper.pdf
+score_distribution_paper.pdf
